@@ -1,0 +1,11 @@
+PassengerId,Survived,Pclass,Name,Sex,Age,SibSp,Parch,Ticket,Fare,Cabin,Embarked
+1,0,3,John Smith,male,22,1,0,A12345,7.25,,S
+2,1,1,Mary Johnson,female,38,1,0,B23456,71.28,C85,C
+3,1,3,David Brown,male,26,0,0,C34567,7.92,,S
+4,1,1,Emily Davis,female,35,1,0,D45678,53.1,C123,S
+5,0,3,Michael Wilson,male,35,0,0,E56789,8.05,,S
+6,0,3,Sarah Moore,female,27,0,0,F67890,8.46,,Q
+7,0,1,James Taylor,male,54,0,0,G78901,51.86,E46,S
+8,1,3,Linda Anderson,female,2,3,1,H89012,21.08,,S
+9,1,3,Robert Thomas,male,27,0,2,I90123,11.13,,S
+10,1,2,Patricia Jackson,female,14,1,0,J01234,30.07,,C
